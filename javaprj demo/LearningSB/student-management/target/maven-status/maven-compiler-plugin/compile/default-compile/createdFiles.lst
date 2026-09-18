@@ -1,0 +1,5 @@
+com\college\student_management\service\StudentService.class
+com\college\student_management\Entity\Student.class
+com\college\student_management\repository\StudentRepository.class
+com\college\student_management\StudentManagementApplication.class
+com\college\student_management\controller\StudentController.class
